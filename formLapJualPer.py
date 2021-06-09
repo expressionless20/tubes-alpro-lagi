@@ -1,10 +1,3 @@
-# file: formLapJualPer.py
-# desain form laporan Penjualan per periode
-# tgl_buat: 28 okt 2010 11.39 AM
-# tgl_revisi : -
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 from datetime import *
 import sqlite3
