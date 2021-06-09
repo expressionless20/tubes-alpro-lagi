@@ -1,10 +1,3 @@
-# file: formTransJual.py
-# desain form untuk transaksi penjualan
-# tgl_buat: 9 okt 2010 08.10 AM
-# tgl_revisi : 28 okt 2010 07.28 AM
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 from datetime import *
 import sqlite3
