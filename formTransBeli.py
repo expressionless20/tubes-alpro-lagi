@@ -1,10 +1,3 @@
-# file: formTransBeli.py
-# desain form untuk transaksi pembelian
-# tgl_buat: 5 okt 2010 03.12 PM
-# tgl_revisi : 28 okt 2010 07.11 AM
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 from dynOptionMenuWidget import DynOptionMenu
 import sqlite3
