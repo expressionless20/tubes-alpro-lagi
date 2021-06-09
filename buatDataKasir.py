@@ -1,18 +1,3 @@
-# file: buatDataKasir.py
-# membuat database kasir --> datatoko.db
-# terdiri dari :
-#   1. tabel supplier
-#   2. tabel produk
-#   3. tabel pengguna
-#   4. tabel barang_masuk
-#   5. tabel detbarang_masuk
-#   6. tabel penjualan
-#   7. tabel detpenjualan
-# tgl buat: 15 okt 2010 12.08 AM
-# tgl revisi: -
-# lisensi: GPL
-# dibuat oleh: masbiggie -- www.pythondahsyat.blogspot.com
-
 import sqlite3
 import os
 
