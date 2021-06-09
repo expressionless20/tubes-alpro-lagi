@@ -1,9 +1,3 @@
-# file: menuUtama.py
-# File utama yang berisi menu program pyTKasir
-# tgl.release: 15 Oktober 2010 12.59 AM
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 import formLogin
 import formSupplier
