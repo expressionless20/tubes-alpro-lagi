@@ -1,10 +1,3 @@
-# file: formUbahHarga.py
-# desain form untuk ubah harga satuan
-# tgl_buat: 8 OKT 2010 08.40 AM
-# tgl_revisi : -
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 import sqlite3
 import tkinter.messagebox as tkMessageBox
