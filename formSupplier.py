@@ -1,10 +1,3 @@
-# file: formSupplier.py
-# desain form untuk data supplier
-# tgl_buat: 3 okt 2010 10.08 PM
-# tgl_revisi : 4 okt 2010 08.55 AM
-# lisensi: GPL
-# dibuat oleh: masbiggie@PythonDahsyat.blogspot.com
-
 from tkinter import *
 import sqlite3
 import tkinter.messagebox as tkMessageBox
